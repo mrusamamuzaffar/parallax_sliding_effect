@@ -13,5 +13,5 @@ A wonderfull parallax sliding effect in Flutter.
   <img 
     width=40%
     height=40%
-    src="https://user-images.githubusercontent.com/101565812/204222254-1034b72a-2b3d-4a45-81f6-859e3714a278.gif" >
+    src="https://user-images.githubusercontent.com/101565812/204269578-b7922908-2f68-4b4b-9605-da25539b110b.gif" >
 </p>
